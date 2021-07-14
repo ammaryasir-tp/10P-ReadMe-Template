@@ -40,11 +40,14 @@ This section should list any major frameworks that you built your project using.
    ```
    
 ### Executing program
-* How to run the program
-* Step-by-step bullets
+* To rebuild the app including assets in running containers.
 ```sh
-code blocks for commands
- ```
+npx fusion rebuild
+```
+* To bundle the application for deployment on ARC CMS.
+```sh
+npx fusion zip
+```
  
 ## Help
 Any advice for common problems or issues.
