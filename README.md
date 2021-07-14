@@ -43,3 +43,27 @@ This section should list any major frameworks that you built your project using.
 ```sh
 code blocks for commands
  ```
+ 
+## Help
+Any advice for common problems or issues.
+```sh
+command to run if program contains helper info
+```
+
+## Usage
+This space used to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space.
+
+## Roadmap
+See the open issues for a list of proposed features (and known issues).
+
+## License
+Distributed under the MIT License. See LICENSE for more information.
+
+## Contact
+* Your Name - Ammar Yasir - ammar.yasir@10pearls.com
+* Project Link: https://github.com/your_username/repo_name
+
+
+
+
+
