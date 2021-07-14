@@ -21,8 +21,6 @@ This section should list any major frameworks that you built your project using.
 ### Installing
 * How/where to download your program
 * Any modifications needed to be made to files/folders
-* Get a free API Key at https://example.com
-
 * Clone the repo
   ```sh
   git clone https://github.com/your_username_/Project-Name.git
@@ -34,6 +32,11 @@ This section should list any major frameworks that you built your project using.
 * Enter your API in config.js
    ```sh
   const API_KEY = 'ENTER YOUR API';
+   ```
+* Runs the app in the development mode through Docker containers.<br />
+  Open [ARC Fusion Page Builder](http://localhost/pagebuilder/pages) to view it in the browser.
+   ```sh
+   npx fusion start
    ```
    
 ### Executing program
