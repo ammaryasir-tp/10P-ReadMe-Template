@@ -8,7 +8,7 @@ This project is used to combine all the microservices and provide a combined res
 To setup this project locally please follow the below instructions. Get a local copy up and running follow these simple example steps.
 
 ### Build With
-This section should list any major frameworks that you built your project using. Here are few examples.
+The list of major frameworks and languages used in this project
 
 * C#
 * .NET 5.0
