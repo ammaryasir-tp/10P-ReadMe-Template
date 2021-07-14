@@ -1,23 +1,22 @@
 ## Project Title
-Simple overview of use/purpose.
+Search Engine
 
 ## Description
-An in-depth paragraph about the project and overview of use.
+This project is used to combine all the microservices and provide a combined result to the front-end. There are three microservices that are combined in this project property microservice, pricing microservice and promotion microservice.
 
 ## Getting Started
-This is an example of how we may give instructions on setting up the project locally. To get a local copy up and running follow these simple example steps.
+To setup this project locally please follow the below instructions. Get a local copy up and running follow these simple example steps.
 
 ### Build With
 This section should list any major frameworks that you built your project using. Here are few examples.
 
-* Major languages
-* Frameworks
-* Technologies used
+* C#
+* .NET 5.0
+* Docker
 
 ### Dependencies
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-  ex. Windows 10.
-* IDE Details Like Visual Studios 2019 with .NET 5.0
+* Windows 10.
+* Visual Studios 2019 with .NET 5.0
 
 ### Installing
 * How/where to download your program
