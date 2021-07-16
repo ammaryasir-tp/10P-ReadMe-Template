@@ -63,7 +63,3 @@ Distributed under the MIT License. See LICENSE for more information.
 * Your Name - Ammar Yasir - ammar.yasir@10pearls.com
 * Project Link: https://github.com/your_username/repo_name
 
-
-
-
-
